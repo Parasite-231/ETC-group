@@ -10,7 +10,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">baby life 2</a>
+            <a class="d-block h5 mb-2" href="">Baby Life 2</a>
 
         </div>
         <div class="d-flex border-top">
@@ -27,7 +27,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">ciya 3</a>
+            <a class="d-block h5 mb-2" href="">Ciya 3</a>
 
         </div>
         <div class="d-flex border-top">
@@ -44,7 +44,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">energy drink 1</a>
+            <a class="d-block h5 mb-2" href="">Energy Drink 1</a>
 
         </div>
         <div class="d-flex border-top">
@@ -61,7 +61,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">execellent modhu 1</a>
+            <a class="d-block h5 mb-2" href="">Execellent Modhu 1</a>
 
         </div>
         <div class="d-flex border-top">
@@ -78,7 +78,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">Powder source 1</a>
+            <a class="d-block h5 mb-2" href="">Powder Source 1</a>
 
         </div>
         <div class="d-flex border-top">
@@ -95,7 +95,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">female plus 1</a>
+            <a class="d-block h5 mb-2" href="">Female Plus 1</a>
 
         </div>
         <div class="d-flex border-top">
@@ -129,7 +129,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">ginger 2</a>
+            <a class="d-block h5 mb-2" href="">Ginger 2</a>
 
         </div>
         <div class="d-flex border-top">
@@ -163,7 +163,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">khorma 1</a>
+            <a class="d-block h5 mb-2" href="">Khorma 1</a>
 
         </div>
         <div class="d-flex border-top">
@@ -180,7 +180,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">modhu 2</a>
+            <a class="d-block h5 mb-2" href="">Modhu 2</a>
 
         </div>
         <div class="d-flex border-top">
@@ -197,7 +197,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">organic vinegar 1</a>
+            <a class="d-block h5 mb-2" href="">Organic Vinegar 1</a>
 
         </div>
         <div class="d-flex border-top">
@@ -214,7 +214,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">powder triphala 3</a>
+            <a class="d-block h5 mb-2" href="">Powder Triphala 3</a>
 
         </div>
         <div class="d-flex border-top">
@@ -231,7 +231,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">protein plus 1</a>
+            <a class="d-block h5 mb-2" href="">Protein Plus 1</a>
 
         </div>
         <div class="d-flex border-top">

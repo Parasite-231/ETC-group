@@ -44,7 +44,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">silajato batika 2</a>
+            <a class="d-block h5 mb-2" href="">Silajato Batika 2</a>
 
         </div>
         <div class="d-flex border-top">
@@ -61,7 +61,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">triphala powder 1</a>
+            <a class="d-block h5 mb-2" href="">Triphala Powder 1</a>
 
         </div>
         <div class="d-flex border-top">

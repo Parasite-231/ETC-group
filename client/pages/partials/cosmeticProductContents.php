@@ -1,7 +1,7 @@
 <?php
 ?>
 
-<div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+<!-- <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
     <div class="product-item">
         <div class="position-relative bg-light overflow-hidden">
             <img class="img-fluid w-100" src="./images/excellent shampoo 2.png" alt="" />
@@ -10,14 +10,14 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">excellent shampoo 2</a>
+            <a class="d-block h5 mb-2" href="">Excellent Shampoo 2</a>
 
         </div>
         <div class="d-flex border-top">
 
         </div>
     </div>
-</div>
+</div> -->
 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
     <div class="product-item">
         <div class="position-relative bg-light overflow-hidden">
@@ -45,7 +45,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">excellent shampoo 2</a>
+            <a class="d-block h5 mb-2" href="">Excellent Shampoo 2</a>
 
         </div>
         <div class="d-flex border-top">
@@ -62,7 +62,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">face wash 2</a>
+            <a class="d-block h5 mb-2" href="">Face Wash 2</a>
 
         </div>
         <div class="d-flex border-top">
@@ -79,7 +79,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">face wash kaca holud 2</a>
+            <a class="d-block h5 mb-2" href="">Face Wash Kaca Holud 2</a>
 
         </div>
         <div class="d-flex border-top">
@@ -96,7 +96,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">face wash tulsi 1</a>
+            <a class="d-block h5 mb-2" href="">Face Wash Tulsi 1</a>
 
         </div>
         <div class="d-flex border-top">
@@ -113,7 +113,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">fairness cream 2</a>
+            <a class="d-block h5 mb-2" href="">Fairness Cream 2</a>
 
         </div>
         <div class="d-flex border-top">
@@ -147,7 +147,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">massage oil 1</a>
+            <a class="d-block h5 mb-2" href="">Massage Oil 1</a>
 
         </div>
         <div class="d-flex border-top">
@@ -164,7 +164,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">msn boss 1</a>
+            <a class="d-block h5 mb-2" href="">Msn Boss 1</a>
 
         </div>
         <div class="d-flex border-top">
@@ -181,7 +181,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">neem oil 1</a>
+            <a class="d-block h5 mb-2" href="">Neem Oil 1</a>
 
         </div>
         <div class="d-flex border-top">
@@ -198,7 +198,7 @@
             </div>
         </div>
         <div class="text-center p-4">
-            <a class="d-block h5 mb-2" href="">toothpaste koyla 1</a>
+            <a class="d-block h5 mb-2" href="">Toothpaste Koyla 1</a>
 
         </div>
         <div class="d-flex border-top">
