@@ -7,7 +7,7 @@
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
                 <h1 class="fw-bold text-primary mb-4">
-                    etc&nbsp;<span class="text-secondary">organ</span>ic
+                    etc<span class="text-secondary">organic</span>
                 </h1>
                 <p>
                     Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat
