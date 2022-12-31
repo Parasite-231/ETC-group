@@ -47,25 +47,24 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="display-5 mb-4">Our Achievement</h1>
+                    <h1 class="display-5 mb-4">Our Mission</h1>
                     <p class="mb-4">
-                        Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-                        lorem sit clita duo justo magna dolore erat amet
+
                     </p>
                     <p>
-                        <i class="fa fa-check text-primary me-3"></i>Tempor erat elitr
-                        rebum at clita
+                        <i class="fa fa-check text-primary me-3"></i>
+                        Making our available reachable to all our customers.
                     </p>
                     <p>
-                        <i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam
-                        et eos
+                        <i class="fa fa-check text-primary me-3"></i>
+                        Ensuring quality and healthy lifestyle.
+
                     </p>
                     <p>
-                        <i class="fa fa-check text-primary me-3"></i>Clita duo justo magna
-                        dolore erat amet
+                        <i class="fa fa-check text-primary me-3"></i>
+                        Work hard and soul for the development of our society and country.
                     </p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Read More</a>
+                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="./index.php">Read More</a>
                 </div>
             </div>
         </div>
@@ -105,8 +104,7 @@
                 style="max-width: 500px">
                 <h1 class="display-5 mb-3">Our Distributional Channels</h1>
                 <p>
-                    Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam
-                    justo sed rebum vero dolor duo.
+
                 </p>
             </div>
             <div class="row g-4">
@@ -115,21 +113,21 @@
                         <img class="img-fluid mb-4" src="./icons/selfCenter.png" alt="" />
                         <h4 class="mb-3">Sells Center/Outlet</h4>
                         <p class="mb-4">
-                            Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum
-                            diam justo sed vero dolor duo.
+
                         </p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="./about.php">Read
+                            More</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="bg-white text-center h-100 p-4 p-xl-5">
-                        <img class="img-fluid mb-4" src="./icons/ecommerce.png" alt="" />
+                        <img class="img-fluid mb-4" src="./icons/ecommerce.png" alt="./about.php" />
                         <h4 class="mb-3">E-Commerce/F-Commerce</h4>
                         <p class="mb-4">
-                            Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum
-                            diam justo sed vero dolor duo.
+
                         </p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="./about.php">Read
+                            More</a>
                     </div>
                 </div>
             </div>
@@ -142,8 +140,7 @@
                 style="max-width: 500px">
                 <h1 class="display-5 mb-3 text-white">Marketing Media</h1>
                 <p class="text-white">
-                    Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam
-                    justo sed rebum vero dolor duo.
+
                 </p>
             </div>
             <div class="row g-4">
@@ -152,10 +149,9 @@
                         <img class="img-fluid mb-4" src="./icons/dm2.png" alt="" />
                         <h4 class="mb-3">Digital Marketing</h4>
                         <p class="mb-4">
-                            Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum
-                            diam justo sed vero dolor duo.
+
                         </p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <!-- <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a> -->
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -163,10 +159,9 @@
                         <img class="img-fluid mb-4" src="./icons/representative.png" alt="" />
                         <h4 class="mb-3">Representative</h4>
                         <p class="mb-4">
-                            Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum
-                            diam justo sed vero dolor duo.
+
                         </p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <!-- <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a> -->
                     </div>
                 </div>
             </div>
@@ -219,8 +214,7 @@
                 style="max-width: 500px">
                 <h1 class="display-5 mb-3">Our Future Plan</h1>
                 <p>
-                    Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam
-                    justo sed rebum vero dolor duo.
+                    Our future activity and development ideas are all focused to our customers.
                 </p>
             </div>
             <div class="row g-4">
@@ -231,7 +225,8 @@
                         <p class="mb-4">
                             Establishing at least one outlet in each district
                         </p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="./about.php">Read
+                            More</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -241,7 +236,8 @@
                         <p class="mb-4">
                             Production on packaging & convert to established company
                         </p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="./about.php">Read
+                            More</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -251,7 +247,8 @@
                         <p class="mb-4">
                             Start of self-marketing to create a uniform public image
                         </p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="./about.php">Read
+                            More</a>
                     </div>
                 </div>
             </div>

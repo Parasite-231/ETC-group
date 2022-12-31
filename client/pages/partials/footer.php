@@ -10,8 +10,8 @@
                     etc<span class="text-secondary">organic</span>
                 </h1>
                 <p>
-                    Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat
-                    ipsum et lorem et sit, sed stet lorem sit clita
+                    A Retail Chain Shop and E-commerce based business where you can get all type
+                    of natural food , medicine and cosmetics.
                 </p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i

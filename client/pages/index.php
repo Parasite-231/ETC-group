@@ -31,23 +31,21 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <h1 class="display-5 mb-4">Best Organic Natural Products</h1>
                     <p class="mb-4">
-                        Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-                        lorem sit clita duo justo magna dolore erat amet
+
                     </p>
                     <p>
-                        <i class="fa fa-check text-primary me-3"></i>Tempor erat elitr
-                        rebum at clita
+                        <i class="fa fa-check text-primary me-3"></i>
+                        <img src="./icons/salad.png"> &nbsp;All type of natural food are available.
                     </p>
                     <p>
-                        <i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam
-                        et eos
+                        <i class="fa fa-check text-primary me-3"></i>
+                        <img src="./icons/pharmacy.png"> &nbsp;All type of organic medicine are available.
                     </p>
                     <p>
-                        <i class="fa fa-check text-primary me-3"></i>Clita duo justo magna
-                        dolore erat amet
+                        <i class="fa fa-check text-primary me-3"></i>
+                        <img src="./icons/lotion.png"> &nbsp;All type of organic cosmetic products are available
                     </p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Read More</a>
+                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="./about.php">Read More</a>
                 </div>
             </div>
         </div>
@@ -59,10 +57,9 @@
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s"
                 style="max-width: 500px">
-                <h1 class="display-5 mb-3">Our Goals</h1>
+                <h1 class="display-5 mb-3">Our Motivation</h1>
                 <p>
-                    Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam
-                    justo sed rebum vero dolor duo.
+
                 </p>
             </div>
             <div class="row g-4">
@@ -403,16 +400,18 @@
                 style="max-width: 500px">
                 <h1 class="display-5 mb-3">Customer Review</h1>
                 <p>
-                    Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam
-                    justo sed rebum vero dolor duo.
+                    Feedbacks from our top customers who have shared their thoughts about our products with us.
                 </p>
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
                 <div class="testimonial-item position-relative bg-white p-5 mt-4">
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
                     <p class="mb-4">
-                        Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-                        amet diam et eos. Clita erat ipsum et lorem et sit.
+                        Best skin care tip I can ever give to you is to use etcorganic's Face Wash 2. It's extremely
+                        helpful
+                        in removing the dark spots and saves you from the ultraviolet rays. I have used it and got great
+                        results
+                        over night. Thankyou etcorganic.
                     </p>
                     <div class="d-flex align-items-center">
                         <img class="flex-shrink-0 rounded-circle" src="./images/st.jpg" alt="" />
@@ -425,8 +424,8 @@
                 <div class="testimonial-item position-relative bg-white p-5 mt-4">
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
                     <p class="mb-4">
-                        Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-                        amet diam et eos. Clita erat ipsum et lorem et sit.
+                        What can I see ? Never seen such an effective organic product before. My tooths are not hurting
+                        anymore after using toothpaste koyla 1 of etcorganic.
                     </p>
                     <div class="d-flex align-items-center">
                         <img class="flex-shrink-0 rounded-circle" src="./images/re.cms" alt="" />
@@ -439,8 +438,9 @@
                 <div class="testimonial-item position-relative bg-white p-5 mt-4">
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
                     <p class="mb-4">
-                        Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-                        amet diam et eos. Clita erat ipsum et lorem et sit.
+                        A few years ago, I was having tremendous problem with my curly hairs. Faced a lot of
+                        dandruff problem. But fortunately there was excellent shampoo 2 for me in the market.
+                        After using it, my hair fall and dandruff are gone. My rating will be 10/10.
                     </p>
                     <div class="d-flex align-items-center">
                         <img class="flex-shrink-0 rounded-circle" src="./images/des.jpg" alt="" />
@@ -453,8 +453,11 @@
                 <div class="testimonial-item position-relative bg-white p-5 mt-4">
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
                     <p class="mb-4">
-                        Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-                        amet diam et eos. Clita erat ipsum et lorem et sit.
+                        Many of my patients faced stomach issues and diabetes problems. After recommending them
+                        etcorganic's
+                        triphala powder 1 for treating stomach problem and Diabetes Tea 1 for the Diabetic patient; now
+                        they are
+                        happy. I thank cordially etcorganic. Surely, the best organic shop in the country.
                     </p>
                     <div class="d-flex align-items-center">
                         <img class="flex-shrink-0 rounded-circle" src="./images/dc.png" alt="" />
