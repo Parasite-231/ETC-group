@@ -362,7 +362,7 @@
                             </div>
                         </div>
                         <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
-                            <a class="btn btn-primary rounded-pill py-3 px-5" href="./cosmeticProduct.html">Browse More
+                            <a class="btn btn-primary rounded-pill py-3 px-5" href="./allProduct.php">Browse More
                                 Products</a>
                         </div>
                     </div>
