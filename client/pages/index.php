@@ -25,11 +25,11 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img position-relative overflow-hidden p-5 pe-0">
-                        <img class="img-fluid w-100" src="img/about.jpg" />
+                        <img class="img-fluid w-100" src="./images/i2.jpg" />
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="display-5 mb-4">Best Organic Natural Foods</h1>
+                    <h1 class="display-5 mb-4">Best Organic Natural Products</h1>
                     <p class="mb-4">
                         Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
                         diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
@@ -73,7 +73,7 @@
                         <p class="mb-4">
                             Business Establishment via E-commerce across Bangladesh
                         </p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <!-- <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a> -->
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -83,7 +83,7 @@
                         <p class="mb-4">
                             When we demand organic, we are demanding poison-free food
                         </p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <!-- <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a> -->
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -94,7 +94,7 @@
                             Transforming ETC Organic Group to an Industrial company within 5
                             years
                         </p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <!-- <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a> -->
                     </div>
                 </div>
             </div>
@@ -110,10 +110,7 @@
                     <div class="section-header text-start mb-5 wow fadeInUp" data-wow-delay="0.1s"
                         style="max-width: 500px">
                         <h1 class="display-5 mb-3">Our Products</h1>
-                        <p>
-                            Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum
-                            diam justo sed rebum vero dolor duo.
-                        </p>
+
                     </div>
                 </div>
 
@@ -378,18 +375,21 @@
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-md-7 wow fadeIn" data-wow-delay="0.1s">
-                    <h1 class="display-5 text-white mb-3">
-                        Have a look on our other Products
-                    </h1>
+                    <h1 class="display-5 text-white mb-3">Visit Our Outlets</h1>
                     <p class="text-white mb-0">
-                        Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-                        lorem sit clita duo justo magna dolore erat amet. Diam dolor diam
-                        ipsum sit. Aliqu diam amet diam et eos.
+                        <i class="fas fa-map-marker-alt" aria-hidden="true"></i>&nbsp;
+                        Garden City, first floor, Shop #-A57, College Road, Feni
+                    </p>
+                    <p class="text-white mb-0">
+                        <i class="fas fa-map-marker-alt" aria-hidden="true"></i>&nbsp;
+                        Majeda Manson, First Floor, Feni Road, Dagonbhuncha, Feni
                     </p>
                 </div>
                 <div class="col-md-5 text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="./allProduct.html">Visit Now</a>
+                    <!-- <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href=""
+              >Visit Now</a
+            > -->
+                    <img src="./icons/shop.png" />
                 </div>
             </div>
         </div>
@@ -415,7 +415,7 @@
                         amet diam et eos. Clita erat ipsum et lorem et sit.
                     </p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-1.jpg" alt="" />
+                        <img class="flex-shrink-0 rounded-circle" src="./images/st.jpg" alt="" />
                         <div class="ms-3">
                             <h5 class="mb-1">Jule Ashfi Rafi</h5>
                             <span>Student</span>
@@ -429,7 +429,7 @@
                         amet diam et eos. Clita erat ipsum et lorem et sit.
                     </p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-2.jpg" alt="" />
+                        <img class="flex-shrink-0 rounded-circle" src="./images/re.cms" alt="" />
                         <div class="ms-3">
                             <h5 class="mb-1">Reaz Ahmed</h5>
                             <span>Photographer</span>
@@ -443,7 +443,7 @@
                         amet diam et eos. Clita erat ipsum et lorem et sit.
                     </p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg" alt="" />
+                        <img class="flex-shrink-0 rounded-circle" src="./images/des.jpg" alt="" />
                         <div class="ms-3">
                             <h5 class="mb-1">Labiba Fairoz Raidah</h5>
                             <span>Fashion Designer</span>
@@ -457,7 +457,7 @@
                         amet diam et eos. Clita erat ipsum et lorem et sit.
                     </p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="img/testimonial-4.jpg" alt="" />
+                        <img class="flex-shrink-0 rounded-circle" src="./images/dc.png" alt="" />
                         <div class="ms-3">
                             <h5 class="mb-1">Abu Mahadi</h5>
                             <span>Doctor</span>

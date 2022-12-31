@@ -42,9 +42,9 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h4 class="text-light mb-4">Quick Visit</h4>
-                <a class="btn btn-link" href="./index.html">Home</a>
-                <a class="btn btn-link" href="./about.html">About Us</a>
-                <a class="btn btn-link" href="./allProduct.html">Our Products</a>
+                <a class="btn btn-link" href="./index.php">Home</a>
+                <a class="btn btn-link" href="./about.php">About Us</a>
+                <a class="btn btn-link" href="./allProduct.php">Our Products</a>
                 <!-- <a class="btn btn-link" href="">Terms & Condition</a>
           <a class="btn btn-link" href="">Support</a> -->
             </div>
@@ -65,6 +65,24 @@
             >
               SignUp
             </button> -->
+                    <div class="footer-top-bg" style=" position: absolute;
+  left: -30px;
+  bottom: -100px;
+  z-index: 2;">
+                        <img src="./images/smile.png" alt="" />
+
+                    </div>
+                </div>
+                <div class=" wow fadeIn" data-wow-delay="0.1s" style="margin-top: 120px;">
+
+                    <p class=" ">
+                        <i class="fas fa-map-marker-alt" aria-hidden="true"></i>&nbsp;
+                        Garden City, first floor, Shop #-A57, College Road, Feni
+                    </p>
+                    <p class=" ">
+                        <i class="fas fa-map-marker-alt" aria-hidden="true"></i>&nbsp;
+                        Majeda Manson, First Floor, Feni Road, Dagonbhuncha, Feni
+                    </p>
                 </div>
             </div>
         </div>
@@ -73,7 +91,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a href="./index.html">etc-organic</a>, All Right Reserved.
+                    &copy; <a href="./index.php">etc-organic</a>, All Right Reserved.
                 </div>
             </div>
         </div>
