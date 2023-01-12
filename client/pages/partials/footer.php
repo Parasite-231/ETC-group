@@ -6,8 +6,9 @@
     <div class="container py-5">
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
-                <h1 class="fw-bold text-primary mb-4">
-                    etc<span class="text-secondary">organic</span>
+                <h1 class="fw-bold text-white mb-4">
+                    <img src="./images/logo.png" width="40px" height="35px" />&nbsp;etc<span
+                        class="text-white">organic</span>
                 </h1>
                 <p>
                     A Retail Chain Shop and E-commerce based business where you can get all type
