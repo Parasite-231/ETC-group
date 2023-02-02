@@ -19,14 +19,15 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container">
-            <h1 class="display-3 mb-3 animated slideInDown">About Us</h1>
+            <h1 class="display-3 mb-3 animated slideInDown" style="font-family: 'Poppins', sans-serif;">About Us</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb mb-0">
                     <li class="breadcrumb-item">
                         <a class="text-body" href="./index.php">Home</a>
                     </li>
 
-                    <li class="breadcrumb-item text-dark active" aria-current="page">
+                    <li class="breadcrumb-item text-dark active" aria-current="page"
+                        style="font-family: 'Poppins', sans-serif;">
                         About Us
                     </li>
                 </ol>
@@ -45,7 +46,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="display-5 mb-4">Our Mission</h1>
+                    <h1 class="display-5 mb-4" style="font-family: 'Poppins', sans-serif;">Our Mission</h1>
                     <p class="mb-4">
 
                     </p>
@@ -98,7 +99,7 @@
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s"
                 style="max-width: 500px">
-                <h1 class="display-5 mb-3">Our Distributional Channels</h1>
+                <h1 class="display-5 mb-3" style="font-family: 'Poppins', sans-serif;">Our Distributional Channels</h1>
                 <p>
 
                 </p>
@@ -173,7 +174,8 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="display-5 mb-4">Customer Attracting Strategy</h1>
+                    <h1 class="display-5 mb-4" style="font-family: 'Poppins', sans-serif;">Customer Attracting Strategy
+                    </h1>
                     <p class="mb-4"></p>
                     <p>
                         <i class="fa fa-check text-primary me-3"></i>
@@ -206,7 +208,7 @@
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s"
                 style="max-width: 500px">
-                <h1 class="display-5 mb-3">Our Future Plan</h1>
+                <h1 class="display-5 mb-3" style="font-family: 'Poppins', sans-serif;">Our Future Plan</h1>
                 <p>
                     Our future activity and development ideas are all focused to our customers.
                 </p>

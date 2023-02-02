@@ -23,11 +23,12 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img position-relative overflow-hidden p-5 pe-0">
-                        <img class="img-fluid w-100" src="./images/web banner cover 1-4.png" />
+                        <img class="img-fluid w-100" src="./images/web banner cover 2.png" />
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="display-5 mb-4">Best Organic Natural Products</h1>
+                    <h1 class="display-5 mb-4" style="font-family: 'Poppins', sans-serif;">Best Organic Natural Products
+                    </h1>
                     <p class="mb-4">
 
                     </p>
@@ -55,7 +56,7 @@
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s"
                 style="max-width: 500px">
-                <h1 class="display-5 mb-3">Our Motivation</h1>
+                <h1 class="display-5 mb-3" style="font-family: 'Poppins', sans-serif;">Our Motivation</h1>
                 <p>
 
                 </p>
@@ -101,7 +102,7 @@
                 <div class="col-lg-6">
                     <div class="section-header text-start mb-5 wow fadeInUp" data-wow-delay="0.1s"
                         style="max-width: 500px">
-                        <h1 class="display-5 mb-3">Our Products</h1>
+                        <h1 class="display-5 mb-3" style="font-family: 'Poppins', sans-serif;">Our Products</h1>
 
                     </div>
                 </div>
@@ -271,7 +272,7 @@
         </div>
     </div>
 
-    <div class="container-fluid bg-light bg-icon py-6 mb-5">
+    <!-- <div class="container-fluid bg-light bg-icon py-6 mb-5">
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s"
                 style="max-width: 500px">
@@ -346,7 +347,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
 
     <?php

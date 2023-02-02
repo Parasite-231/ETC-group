@@ -32,6 +32,7 @@
                 <a href="index.php" class="nav-item nav-link active">Home</a>
                 <a href="about.php" class="nav-item nav-link">About Us</a>
                 <a href="./allProduct.php" class="nav-item nav-link">Products</a>
+                <a href="./services.php" class="nav-item nav-link active">Services</a>
 
             </div>
             <div class="d-none d-lg-flex ms-2">

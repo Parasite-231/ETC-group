@@ -5,7 +5,7 @@
 <div class="container-fluid p-0 mb-5 wow fadeIn" data-wow-delay="0.1s">
     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
-            <div class="carousel-item active">
+            <!-- <div class="carousel-item active">
                 <img class="w-100" src="images/web banner cover 1-4.png" alt="Image" />
                 <div class="carousel-caption">
                     <div class="container">
@@ -22,14 +22,15 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="carousel-item">
+            </div> -->
+            <div class="carousel-item active">
                 <img class="w-100" src="images/web banner cover 1-4.png" alt="Image" />
                 <div class="carousel-caption">
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-lg-7">
-                                <h1 class="display-3 mb-5 animated slideInDown">
+                                <h1 class="display-3 mb-5 animated slideInDown"
+                                    style="font-family: 'Poppins', sans-serif;">
                                     Organic medicines are natural substances extracted from
                                     organic plants
                                 </h1>
@@ -48,7 +49,8 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-lg-7">
-                                <h1 class="display-3 mb-5 animated slideInDown">
+                                <h1 class="display-3 mb-5 animated slideInDown"
+                                    style="font-family: 'Poppins', sans-serif;">
                                     Organic cosmetic contains at least 95% of the natural
                                     ingredients
                                 </h1>
